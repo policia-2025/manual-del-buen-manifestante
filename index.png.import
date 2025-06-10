@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bdwlt1ryw358j"
-path="res://.godot/imported/penepe.apple-touch-icon.png-c2e5dce1797a1b905300984564a08d5f.ctex"
+uid="uid://bprosrgr54ai"
+path="res://.godot/imported/index.png-301f274de17a5172ff23de7fcbeed413.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://builds/webgl/penepe.apple-touch-icon.png"
-dest_files=["res://.godot/imported/penepe.apple-touch-icon.png-c2e5dce1797a1b905300984564a08d5f.ctex"]
+source_file="res://builds/webgl/manual-del-buen-manifestante/index.png"
+dest_files=["res://.godot/imported/index.png-301f274de17a5172ff23de7fcbeed413.ctex"]
 
 [params]
 
